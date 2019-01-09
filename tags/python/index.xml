@@ -27,7 +27,8 @@ This is a dashboard created using Dash. It started from a personal project when 
       <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/11/20/plotly-dashboard/</guid>
-      <description>👉 Enter Plotly Dashboard</description>
+      <description>👉 Enter Plotly Dashboard
+This dashboard is created using Plotly. I used it to test ideas for a more customizable Dash Dashboard.</description>
     </item>
     
   </channel>
